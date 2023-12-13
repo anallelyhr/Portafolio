@@ -1,7 +1,7 @@
 # Portafolio
 Mi portafolio tecnolochicas
 
-Tecnologías
+# Tecnologías
 Esta página web fue creada con:
 
 HTML
